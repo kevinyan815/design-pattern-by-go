@@ -1,6 +1,4 @@
-# design-pattern-by-go
-用 Go 语言学设计模式
-
+# 用 Go 语言学设计模式
 
 
 ## 建造型模式

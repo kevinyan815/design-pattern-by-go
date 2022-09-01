@@ -1,3 +1,7 @@
+package main
+
+import "fmt"
+
 // 示例源码运行Demo
 // 给公众号「网管叨bi叨」发生 go-factory 即可领取
 type AbstractFactory interface {

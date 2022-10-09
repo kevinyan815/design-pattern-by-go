@@ -12,5 +12,5 @@
   - [Go学设计模式--原型模式的考查点和使用推荐](https://mp.weixin.qq.com/s/y1qHsQNR7EWeDU5g60Loqg)
   - [源码：Go 实现原型模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/prototype)
 - 建造者模式
-  - [教程 -- Go开源库、大项目的公共包，是这么用建造者模式的]()
+  - [教程 -- Go开源库、大项目的公共包，是这么用建造者模式的](https://mp.weixin.qq.com/s/Uu3EAWpRO9pSbg1F1DLa_w)
   - [源码：Go实现建造者模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/builder)

@@ -15,6 +15,7 @@
   - [教程 -- Go开源库、大项目的公共包，是这么用建造者模式的](https://mp.weixin.qq.com/s/Uu3EAWpRO9pSbg1F1DLa_w)
   - [源码：Go实现建造者模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/builder)
   
-- 行为型模式
-  - [教程--用 Go 实现模版模式]()
+## 行为型模式
+- 模版模式
+  - [教程--建议OKR考评想拿A+的技术，都学下用这个设计模式思考业务抓手]()
   - [源码：Go实现模版模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/template)

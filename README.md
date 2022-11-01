@@ -17,5 +17,5 @@
   
 ## 行为型模式
 - 模版模式
-  - [教程--学会用这个设计模式思考业务抓手，OKR绩效想不拿优都难](https://mp.weixin.qq.com/s/W1m1IV9iwXzp3QcSchk7PQ)
+  - [教程--提炼流程，减少重复开发就靠它了](https://mp.weixin.qq.com/s/W1m1IV9iwXzp3QcSchk7PQ)
   - [源码：Go实现模版模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/template)

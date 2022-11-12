@@ -22,3 +22,6 @@
 - 模版模式
   - [教程--提炼流程，减少重复开发就靠它了](https://mp.weixin.qq.com/s/W1m1IV9iwXzp3QcSchk7PQ)
   - [源码：Go实现模版模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/template)
+- 策略模式
+  - [教程--要求千人千面、流程兜底的代码用这个模式写更丝滑]()
+  - [源码：用Go实现策略模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/strategy)

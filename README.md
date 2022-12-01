@@ -24,4 +24,4 @@
   - [源码：Go实现模版模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/template)
 - 策略模式
   - [教程--项目要千人千面、流程兜底？用这个模式写更丝滑](https://mp.weixin.qq.com/s/G7r6abAzKXuite8-E8I12Q)
-  - [源码：用Go实现策略模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/strategy)
+  - [源码：用Go实现策略模式](https://mp.weixin.qq.com/s/IQsojcdwLZ1g0TgVQDoqVw)

@@ -28,5 +28,5 @@
 
 
 ## 求支持
-请扫码关注公众号，支持下，也可通过公众号拿到我的个人微信进行咨询
+请扫码关注公众号，支持下；也可通过公众号联系到我以及阅读更多精品内容
 <img width="578" alt="image" src="https://user-images.githubusercontent.com/8792672/205204649-c9679a9f-b681-412c-9ca7-6eaa26728ffd.png">

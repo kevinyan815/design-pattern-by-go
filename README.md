@@ -25,6 +25,8 @@
 - 策略模式
   - [Go 程序里 if else 分支太多？试着用策略模式治理一下吧](https://mp.weixin.qq.com/s/IQsojcdwLZ1g0TgVQDoqVw)
   - [源码：用Go实现策略模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/strategy)
+- 职责链模式
+  - [源码：用Go实现职责链模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/chainofresponsibility)
 
 
 ## 求支持

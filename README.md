@@ -16,7 +16,7 @@
   - [源码：Go实现建造者模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/builder)
 
 - 结构型模式
-  - [源码：Go实现代理模式]()
+  - [源码：Go实现代理模式](https://github.com/kevinyan815/design-pattern-by-go/blob/master/src/proxy)
   
 ## 行为型模式
 - 观察者模式

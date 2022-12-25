@@ -15,7 +15,9 @@
   - [教程 -- Go开源库、大项目的公共包，是这么用建造者模式的](https://mp.weixin.qq.com/s/Uu3EAWpRO9pSbg1F1DLa_w)
   - [源码：Go实现建造者模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/builder)
 
-- 结构型模式
+## 结构型模式
+- 代理模式
+  - [Go学设计模式--怕把核心代码改乱，记得用代理模式]() 
   - [源码：Go实现代理模式](https://github.com/kevinyan815/design-pattern-by-go/blob/master/src/proxy)
   
 ## 行为型模式

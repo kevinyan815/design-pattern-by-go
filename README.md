@@ -17,7 +17,7 @@
 
 ## 结构型模式
 - 代理模式
-  - [Go学设计模式--怕把核心代码改乱，记得用代理模式]() 
+  - [Go学设计模式--怕把核心代码改乱，记得用代理模式](https://mp.weixin.qq.com/s/FTXkgxkUzsHMIspCK60G4w) 
   - [源码：Go实现代理模式](https://github.com/kevinyan815/design-pattern-by-go/blob/master/src/proxy)
   
 ## 行为型模式

@@ -19,6 +19,9 @@
 - 代理模式
   - [Go学设计模式--怕把核心代码改乱，记得用代理模式](https://mp.weixin.qq.com/s/FTXkgxkUzsHMIspCK60G4w) 
   - [源码：Go实现代理模式](https://github.com/kevinyan815/design-pattern-by-go/blob/master/src/proxy)
+- 装饰器模式
+  - [教程 -- Go学设计模式--装饰器和职责链，哪个模式实现中间件更科学？]()
+  - [源码：Go实现装饰器模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/decorator)
   
 ## 行为型模式
 - 观察者模式

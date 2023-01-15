@@ -22,6 +22,9 @@
 - 装饰器模式
   - [教程 -- Go学设计模式--装饰器和职责链，哪个模式实现中间件更科学？]()
   - [源码：Go实现装饰器模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/decorator)
+- 组合模式
+  - [教程 -- 预计2023.1.16更新]()
+  - [源码：Go实现组合模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/composite)
   
 ## 行为型模式
 - 观察者模式
@@ -34,6 +37,7 @@
   - [Go 程序里 if else 分支太多？试着用策略模式治理一下吧](https://mp.weixin.qq.com/s/IQsojcdwLZ1g0TgVQDoqVw)
   - [源码：用Go实现策略模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/strategy)
 - 职责链模式
+  - [教程:程序员上班，提前学会用职责链设计模式预防产品加需求吧](https://mp.weixin.qq.com/s/zCh12E10JM24EGTyFS7hPQ)
   - [源码：用Go实现职责链模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/chainofresponsibility)
 
 

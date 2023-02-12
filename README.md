@@ -39,6 +39,9 @@
 - 职责链模式
   - [教程:程序员上班，提前学会用职责链设计模式预防产品加需求吧](https://mp.weixin.qq.com/s/zCh12E10JM24EGTyFS7hPQ)
   - [源码：用Go实现职责链模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/chainofresponsibility)
+- 状态模式
+  - [教程：Coming soon，2.15前更新]
+  - [源码：用Go实现一个状态机](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/state)
 
 
 ## 求支持

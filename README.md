@@ -23,8 +23,14 @@
   - [教程 -- Go学设计模式--装饰器和职责链，哪个模式实现中间件更科学？]()
   - [源码：Go实现装饰器模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/decorator)
 - 组合模式
-  - [教程 -- 预计2023.1.16更新]()
+  - [教程--组合，一个对数据结构算法和职场都有提升的设计模式](https://mp.weixin.qq.com/s/JKWbyr4Yt7A6l1nFsANUcQ)
   - [源码：Go实现组合模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/composite)
+- 适配器模式
+  - [教程--项目依赖耦合度太高？可以用适配器做下优化](https://mp.weixin.qq.com/s/r8975amH-DcJkWQKytIeJQ)
+  - [源码：Go实现适配器模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/adaptor)
+- 外观模式
+  - [教程--预计 2.25 前更新]()
+  - [源码：Go实现外观模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/facade)
   
 ## 行为型模式
 - 观察者模式
@@ -40,7 +46,7 @@
   - [教程:程序员上班，提前学会用职责链设计模式预防产品加需求吧](https://mp.weixin.qq.com/s/zCh12E10JM24EGTyFS7hPQ)
   - [源码：用Go实现职责链模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/chainofresponsibility)
 - 状态模式
-  - [教程：Coming soon，2.15前更新]
+  - [教程：用状态模式实现系统工作流和状态机](https://mp.weixin.qq.com/s/X9dKNO6sd-OY2VfsZpaElA)
   - [源码：用Go实现一个状态机](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/state)
 
 

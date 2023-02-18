@@ -27,7 +27,7 @@
   - [源码：Go实现组合模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/composite)
 - 适配器模式
   - [教程--项目依赖耦合度太高？可以用适配器做下优化](https://mp.weixin.qq.com/s/r8975amH-DcJkWQKytIeJQ)
-  - [源码：Go实现适配器模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/adaptor)
+  - [源码：Go实现适配器模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/adapter)
 - 外观模式
   - [教程--预计 2.25 前更新]()
   - [源码：Go实现外观模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/facade)

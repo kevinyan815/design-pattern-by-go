@@ -31,6 +31,9 @@
 - 外观模式
   - [教程--预计 2.25 前更新]()
   - [源码：Go实现外观模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/facade)
+- 享元模式
+  - [教程]
+  - [源码: Go实现享元模式]()
   
 ## 行为型模式
 - 观察者模式

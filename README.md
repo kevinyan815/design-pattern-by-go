@@ -29,11 +29,13 @@
   - [教程--项目依赖耦合度太高？可以用适配器做下优化](https://mp.weixin.qq.com/s/r8975amH-DcJkWQKytIeJQ)
   - [源码：Go实现适配器模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/adapter)
 - 外观模式
-  - [教程--预计 2.25 前更新]()
+  - [教程--外观模式，一个每天都在用，却被多数人在面试中忽视的模式](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247497560&idx=1&sn=c3a8f8bc5e8d7748eb16d60a242369f2&chksm=fa8326cfcdf4afd91eab5dab7e556ae134c6b6a059913c3dbde0f7450db9faf8a74e5f1c9834&scene=178&cur_album_id=2531498848431669249#rd)
   - [源码：Go实现外观模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/facade)
 - 享元模式
-  - [教程]
-  - [源码: Go实现享元模式]()
+  - [教程：享元模式，节省内存的好帮手](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247497613&idx=1&sn=428a4ffa977421b2b2c78f36585b7c62&chksm=fa83261acdf4af0c014190c5982b1b5af34018d69e12c3baf5a1f44b680056901103d2afd2c0&scene=178&cur_album_id=2531498848431669249#rd)
+  - [源码: Go实现享元模式](https://github.com/kevinyan815/design-pattern-by-go/blob/master/src/flyweight)
+- 桥接模式
+  - [教程：预计 3.15前更新]()
   
 ## 行为型模式
 - 观察者模式

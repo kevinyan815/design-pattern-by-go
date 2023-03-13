@@ -36,6 +36,7 @@
   - [源码: Go实现享元模式](https://github.com/kevinyan815/design-pattern-by-go/blob/master/src/flyweight)
 - 桥接模式
   - [教程：预计 3.15前更新]()
+  - [源码：用桥接模式实现一个数据库导出工具](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/bridge)
   
 ## 行为型模式
 - 观察者模式

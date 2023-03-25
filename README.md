@@ -35,7 +35,7 @@
   - [教程：享元模式，节省内存的好帮手](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247497613&idx=1&sn=428a4ffa977421b2b2c78f36585b7c62&chksm=fa83261acdf4af0c014190c5982b1b5af34018d69e12c3baf5a1f44b680056901103d2afd2c0&scene=178&cur_album_id=2531498848431669249#rd)
   - [源码: Go实现享元模式](https://github.com/kevinyan815/design-pattern-by-go/blob/master/src/flyweight)
 - 桥接模式
-  - [教程：预计 3.15前更新]()
+  - [教程：桥接模式，让代码既能多维度扩展又不会臃肿](https://mp.weixin.qq.com/s/O8shSU46TcgFPx3h7NGFAA)
   - [源码：用桥接模式实现一个数据库导出工具](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/bridge)
   
 ## 行为型模式

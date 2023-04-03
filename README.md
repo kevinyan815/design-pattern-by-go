@@ -54,6 +54,9 @@
 - 状态模式
   - [教程：用状态模式实现系统工作流和状态机](https://mp.weixin.qq.com/s/X9dKNO6sd-OY2VfsZpaElA)
   - [源码：用Go实现一个状态机](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/state)
+- 迭代器模式
+  - [教程：Go设计模式-迭代器模式](https://mp.weixin.qq.com/s/sABibBRsC2kknbAH18oatA)
+  - [源码：用Go实现迭代器模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/iterator)
 
 
 ## 求支持

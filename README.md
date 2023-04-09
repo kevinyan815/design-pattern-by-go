@@ -57,6 +57,9 @@
 - 迭代器模式
   - [教程：Go设计模式-迭代器模式](https://mp.weixin.qq.com/s/sABibBRsC2kknbAH18oatA)
   - [源码：用Go实现迭代器模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/iterator)
+- 访客模式
+  - [教程：预计4.13 号更新]
+  - [源码：用访客模式实现不同维度的订单统计](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/visitor)
 
 
 ## 求支持

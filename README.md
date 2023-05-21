@@ -69,6 +69,9 @@
 - 解释器模式
   - [教程：Go设计模式-解释器模式](https://mp.weixin.qq.com/s/8v0UZWygCvkbye4Y0P-3sQ)
   - [源码：用Go实现解释器模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/interpreter)
+- 中介者模式
+  - [教程：Coming soon]()
+  - [源码：用Go实现中介者模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/mediator)
 
 ## 求支持
 请扫码关注公众号，支持下；也可通过公众号联系到我以及阅读更多精品内容

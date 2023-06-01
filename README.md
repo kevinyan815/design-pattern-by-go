@@ -70,7 +70,7 @@
   - [教程：Go设计模式-解释器模式](https://mp.weixin.qq.com/s/8v0UZWygCvkbye4Y0P-3sQ)
   - [源码：用Go实现解释器模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/interpreter)
 - 中介者模式
-  - [教程：Coming soon]()
+  - [教程：Go设计模式-中介者模式](https://mp.weixin.qq.com/s/91-XUm5Gn9oQLd_F4dLb3A)
   - [源码：用Go实现中介者模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/mediator)
 
 ## 求支持

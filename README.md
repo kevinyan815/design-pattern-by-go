@@ -43,7 +43,7 @@
   - [教程--拒绝Go代码臃肿，其实在这几块可以用下观察者模式](https://mp.weixin.qq.com/s/4NqjkXVqFPamEc_QsyRipA)
   - [源码：Go实现观察者模式和事件分发器](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/observer)
 - 模版模式
-  - [教程--提炼流程，减少重复开发就靠它了](https://mp.weixin.qq.com/s/W1m1IV9iwXzp3QcSchk7PQ)
+  - [教程--提炼流程，减少重复开发就靠它了](https://mp.weixin.qq.com/s/-Ysho1jI9MfrAIrplzj7UQ)
   - [源码：Go实现模版模式](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/template)
 - 策略模式
   - [Go 程序里 if else 分支太多？试着用策略模式治理一下吧](https://mp.weixin.qq.com/s/IQsojcdwLZ1g0TgVQDoqVw)

@@ -42,20 +42,20 @@ type InsureTemplate struct {
 
 func (template InsureTemplate) ExecuteInsure() (*Response, error) {
 	fmt.Println("ValidateRequest")
-	err := template.InsureHandlerI.ValidateRequest()
+	err := template.ValidateRequest()
 	if err != nil {
 		return nil, err
 	}
-	err = template.InsureHandlerI.CheckRepetition()
+	err = template.CheckRepetition()
 	if err != nil {
 		return nil, err
 	}
-	err = template.InsureHandlerI.PrepareOrderCreateParam()
+	err = template.PrepareOrderCreateParam()
 	if err != nil {
 		return nil, err
 	}
 	fmt.Println("LoadInsurePayStrategy")
-	err = template.InsureHandlerI.LoadInsurePayStrategy()
+	err = template.LoadInsurePayStrategy()
 	if err != nil {
 		return nil, err
 	}
